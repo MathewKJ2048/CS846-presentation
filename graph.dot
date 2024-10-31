@@ -1,0 +1,8 @@
+digraph G {
+L1[style=filled,peripheries=2,color=red];
+L2[style=filled];
+L3[style=filled];
+L1 -> L2[label="tik/-"];
+L2 -> L3[label="tik/-"];
+L3 -> L1[label="tik/💡"];
+}

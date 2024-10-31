@@ -1,0 +1,9 @@
+{
+	"states":["p","q"],
+	"inputs":["x"],
+	"outputs":["y"],
+	"transitions":
+	[
+		["p","q","x","y"]
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"states":["OFF","ON"],
+	"inputs":["on","off"],
+	"outputs":["💡","-"],
+	"transitions":
+	[
+		["OFF","ON","on","💡"],
+		["ON","OFF","off","-"]
+	]
+}
